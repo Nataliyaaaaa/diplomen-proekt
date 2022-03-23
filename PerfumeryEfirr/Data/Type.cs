@@ -5,5 +5,5 @@ using System.Threading.Tasks;
 
 namespace PerfumeryEfirr.Data
 {
-    public enum Type { Мъжки, Дамски }
+    public enum Type { Men , Woman  }
 }
